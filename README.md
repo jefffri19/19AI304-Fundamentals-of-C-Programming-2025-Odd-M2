@@ -15,7 +15,6 @@
   
   The program should display the average marks up to two decimal places and the corresponding grade. 
   
-# Date : 
 # Aim:
  To build a C program that receives inputs for a student’s marks in three subjects, calculates the average, and determines the grade using nested if-else statements with safe floating-point comparisons.
 # Algorithm:
@@ -56,7 +55,13 @@
 ### Step 11:
   Stop
 # Program:
+<img width="680" height="722" alt="image" src="https://github.com/user-attachments/assets/f7b2cbf2-1453-46ac-b241-fe93e12739d4" />
+
+<img width="577" height="620" alt="image" src="https://github.com/user-attachments/assets/34ed02a5-99e0-4978-855c-d0d92986a96a" />
+
 # Output:
+<img width="301" height="202" alt="image" src="https://github.com/user-attachments/assets/2887a789-386e-4397-b9ce-d4165a1b1004" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -64,7 +69,6 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:7
   Develop a C program to display the multiplication table of a given number (15) up to 10.
-# Date : 
 # Aim:
  To develop a C program that prints the multiplication table of the number 15 up to 10 using a for loop.
 # Algorithm:
@@ -88,7 +92,11 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+<img width="567" height="387" alt="image" src="https://github.com/user-attachments/assets/39b44888-2779-40bb-8fcf-4705a0c408c9" />
+
 # Output:
+<img width="297" height="347" alt="image" src="https://github.com/user-attachments/assets/11a98056-1f5a-484e-95ff-df9109dfbe59" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -96,7 +104,6 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:8
   Develop a C program to check whether a given number is prime or not.
-# Date : 
 # Aim:
  To develop a C program that determines whether an input number is a prime number using a while loop.
 # Algorithm:
@@ -131,7 +138,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+<img width="552" height="642" alt="image" src="https://github.com/user-attachments/assets/7687f5b9-39ac-4c7d-910a-d7dd5c24363f" />
+
+<img width="558" height="475" alt="image" src="https://github.com/user-attachments/assets/288ff625-e725-4516-86aa-fcee8d284d2e" />
+
 # Output:
+<img width="323" height="113" alt="image" src="https://github.com/user-attachments/assets/fca1e7f2-68f3-4332-b401-a96e0036fa6a" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -147,7 +160,6 @@ Thus, the program was implemented and executed successfully, and the required ou
  4   2  
  54321
  ```
-# Date : 
 # Aim:
  To build a C program that prints the required numeric pattern for a given value of n using nested loops.
 # Algorithm:
@@ -179,7 +191,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="482" height="717" alt="image" src="https://github.com/user-attachments/assets/989464f6-b905-4c7a-9734-0023d4d18ccc" />
+
 # Output:
+<img width="71" height="136" alt="image" src="https://github.com/user-attachments/assets/5d7ddcaf-58de-4695-9596-a959201c90de" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -232,6 +248,12 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+## 💻 Program
+<img width="522" height="716" alt="image" src="https://github.com/user-attachments/assets/8fd993ec-cde2-4ee0-9102-dd896000d9a1" />
+
+## Output
+<img width="480" height="422" alt="image" src="https://github.com/user-attachments/assets/67e3dc12-7e2e-409d-b5e7-5beb32d3ab35" />
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
